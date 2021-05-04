@@ -1,0 +1,146 @@
+.header {
+    text-align: center;
+}
+
+.custom-btn-toolbar {
+    display: inline !important;
+}
+
+.custom-btn-toolbar > .btn {
+    margin-right: 1rem;
+}
+
+.category-card {
+    width: 8rem;
+    height: 8rem;
+    margin-top: 15px;
+}
+
+.category-image {
+    border-bottom: black;
+    border-width: medium;
+}
+
+.category-card-body-title.card-title.h5 {
+
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.item-sticky {
+    position: sticky;
+    top: 6rem;
+}
+
+.item-sticky2 {
+    position: sticky;
+    top: 8rem;
+}
+
+.body-container {
+    padding: 25px;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.col {
+    text-align: right;
+}
+
+.card-header {
+    text-align: right;
+    font-family: IRANSansWeb_Bold;
+}
+
+.form-file-label {
+    font-family: IRANSansWeb_Medium;
+}
+
+.category-container {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+html {
+    background-color: #fafafa;
+
+    font-family: IRANSansWeb;
+}
+
+.font-face-is {
+    font-family: "IRANSansWeb_Medium";
+    font-size: 14px;
+    color: rgb(163, 163, 163);
+}
+
+.font-face-is:hover {
+    background-color: azure;
+    border-radius: 5px;
+}
+
+.font-face-md {
+    font-family: "IRANSansWeb_Medium";
+}
+
+.font-face-la {
+    font-family: "IRANSansWeb_Light";
+}
+
+.font-face-wb {
+    font-family: "IRANSansWeb";
+}
+
+.navbar-brand {
+
+    font-family: "IRANSansWeb_Medium";
+    font-size: 1rem !important;
+    color: #a3a3a3;
+}
+
+.sort-product {
+    font-family: "IRANSansWeb";
+    font-size: 14px;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0 !important;
+    border-radius: 30px !important;
+    text-align: center;
+}
+
+a.nav-link.active {
+    background-color: blue;
+    color: #fff;
+    border-radius: 20px;
+}
+
+a.nav-link.active span {
+    color: #fff;
+}
+
+nav a:hover {
+    background: rgb(222, 222, 226);
+    transition: all ease-in-out 0.2s;
+    border-radius: 20px;
+}
+
+nav .active {
+    background: #556ff7;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
+
+
+
